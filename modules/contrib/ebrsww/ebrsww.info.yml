@@ -1,0 +1,13 @@
+name: Entity browser remote stream wrapper widget
+description: Implements the remote stream wrapper api as a entity browser widget
+type: module
+# core: 8.x
+
+dependencies:
+- remote_stream_wrapper
+
+# Information added by Drupal.org packaging script on 2018-10-16
+version: '8.x-1.0'
+core: '8.x'
+project: 'ebrsww'
+datestamp: 1539711484

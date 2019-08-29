@@ -1,0 +1,14 @@
+name: 'Search 365 Test'
+description: Provides test Search 365 responses
+package: 'Search 365'
+type: module
+# core: '8.x'
+hidden: TRUE
+dependencies:
+  - search_365:search_365
+
+# Information added by Drupal.org packaging script on 2018-11-29
+version: '8.x-1.0-alpha5'
+core: '8.x'
+project: 'search_365'
+datestamp: 1543451887
